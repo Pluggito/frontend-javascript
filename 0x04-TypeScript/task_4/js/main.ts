@@ -1,8 +1,8 @@
-import * as Subjects from './subjects/Subject';
 
-const cpp = new Subjects.Cpp();
-const java = new Subjects.Java();
-const react = new Subjects.React();
+
+const cpp = new Cpp();
+const java = new Java();
+const react = new React();
 
 const cTeacher: Subjects.Teacher = {
   firstName: "John",
